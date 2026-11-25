@@ -16,7 +16,7 @@ MSc Computer Science (Applied Computing) student at **Universiti Malaya**, with 
 | Project | What it is |
 |---|---|
 | [devops-project-Helm](https://github.com/OsamaCodes62/devops-project-Helm) | FastAPI app deployed on Kubernetes with Docker, Helm, ArgoCD and GitHub Actions |
-| [FastApi-ML_model](https://github.com/OsamaCodes62/FastApi-ML_model) | Insurance premium prediction API (Scikit-learn, FastAPI, Streamlit, Docker) |
+| [FastApi-ML_model](https://github.com/OsamaCodes62/FastApi-ML_model) | Insurance premium prediction API (Scikit-learn, FastAPI, Streamlit) |
 | [ML_Fruit_recognition](https://github.com/OsamaCodes62/ML_Fruit_recognition) | CNN fruit image classifier (TensorFlow/Keras) |
 | [Parking_Space_Tracker](https://github.com/OsamaCodes62/Parking_Space_Tracker) | Parking occupancy detection from video (OpenCV) |
 
