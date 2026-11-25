@@ -1,8 +1,13 @@
 # Hi, I'm Osama 👋
 
-MSc Computer Science (Applied Computing) student at **Universiti Malaya**, with industry experience as an AI engineer and MLOps engineer. I'm currently looking for a **Graduate Research Assistant** role.
+MSc Computer Science (Applied Computing) student at **Universiti Malaya**, with industry experience as an AI engineer and MLOps engineer. I'm open to **remote AI and infrastructure roles**, and to **Graduate Research Assistant** positions at UM.
 
 **Research interests:** machine learning for healthcare · explainable AI · LLM-based code analysis · computer vision for behaviour analysis
+
+## Products I built and ran solo
+
+- **[Greedy Motion](https://www.greedymotion.com) (2026):** AI video SaaS that turns a product brief into a storyboard, AI voiceover and music, and a rendered MP4. Next.js on Vercel, Fastify on Railway, Supabase, Cloudflare R2, and render workers on AWS ECS Fargate that scale to zero and fall back from Spot to On-Demand. The code is private, but I'm happy to walk through it.
+- **[PhotoPilot](https://photopilot.art) (2026):** AI photo editing app on [Google Play](https://play.google.com/store/apps/details?id=com.ramolabs.photopilot). React Native (Expo) and FastAPI on Gemini, with Play Integrity attestation, RevenueCat subscriptions and a daily AI spending cap. Deployed on Railway and Google Cloud Run.
 
 ## Highlights
 
@@ -22,7 +27,7 @@ MSc Computer Science (Applied Computing) student at **Universiti Malaya**, with 
 
 ## Tools
 
-Python · Scikit-learn · PyTorch · Pandas · DeBERTa-v3 · Llama 3 · Docker · Kubernetes · Helm · ArgoCD · Jenkins · GitHub Actions · FastAPI · AWS (EC2, S3) · Unity
+Python · Scikit-learn · PyTorch · Pandas · DeBERTa-v3 · Llama 3 · Docker · Kubernetes · Helm · ArgoCD · Jenkins · GitHub Actions · FastAPI · TypeScript · Next.js · Fastify · React Native · Supabase · Cloudflare R2 · AWS (ECS Fargate, ECR, Secrets Manager, EC2, S3) · Google Cloud Run · Claude and Gemini APIs · Unity
 
 ## Contact
 
